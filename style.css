@@ -1,0 +1,23 @@
+#send
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border-color: black;
+    border-width: 5px;
+}
+#logo
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+background-image:url(bg.jpg);
+}
